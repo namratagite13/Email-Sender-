@@ -1,7 +1,7 @@
 **clone the Repository**  
 ```
-git clone[https://github.com/namratagite13/Chat-App]
-cd [MY_CHATAPP-2]  
+git clone[https://github.com/namratagite13/Email-Sender-App/tree/main]
+cd [EMAIL_SENDER-1]  
 ```
 **Install Dependencies**  
 ```
